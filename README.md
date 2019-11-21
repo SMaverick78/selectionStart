@@ -1,2 +1,0 @@
-# selectionStart
-Created with CodeSandbox
